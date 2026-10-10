@@ -1,9 +1,9 @@
 // ignore_for_file: unnecessary_const
 
 import 'package:flutter/material.dart';
-import 'package:flutter_body_health_calculator_project/views/about_ui.dart';
-import 'package:flutter_body_health_calculator_project/views/bmi_ui.dart';
-import 'package:flutter_body_health_calculator_project/views/bmr_ui.dart';
+import 'package:flutter_body_health_calculator_project_19/views/about_ui.dart';
+import 'package:flutter_body_health_calculator_project_19/views/bmi_ui.dart';
+import 'package:flutter_body_health_calculator_project_19/views/bmr_ui.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class HomeUI extends StatefulWidget {
